@@ -1,3 +1,5 @@
+SET NAMES utf8mb4;
+
 SET @TEXT_ID := 601083;
 DELETE FROM `npc_text` WHERE `ID` IN  (@TEXT_ID,@TEXT_ID+1);
 INSERT INTO `npc_text` (`ID`, `text0_0`) VALUES

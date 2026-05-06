@@ -1,3 +1,5 @@
+SET NAMES utf8mb4;
+
 SET
 @HideEntry   = 57575,
 @RemoveEntry = 57576,

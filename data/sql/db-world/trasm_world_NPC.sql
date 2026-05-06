@@ -1,3 +1,5 @@
+SET NAMES utf8mb4;
+
 SET
 @Entry = 190010,
 @Name = "Warpweaver";
